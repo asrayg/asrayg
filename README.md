@@ -19,9 +19,9 @@ I'm really big into entrepreneurship and advocating for students at Iowa State:
 - [HerdMate](linkedin.com/company/103411763)
 - [ISU StuGov](https://iowastatedaily.com/?s=asray+gopa)
 
+![asrayg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrayg&theme=vue-dark&hide_border=true)
 
-## 🌐 Connect with me:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/asray-gopa-892939208/)
+## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/asray-gopa-892939208/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
