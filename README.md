@@ -21,6 +21,8 @@ I'm really big into entrepreneurship and advocating for students at Iowa State:
 
 ![asrayg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrayg&theme=vue-dark&hide_border=true)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrayg&theme=tokyonight)
+
 ## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/asray-gopa-892939208/)
 
 # 💻 Tech Stack:
@@ -76,3 +78,7 @@ I'm really big into entrepreneurship and advocating for students at Iowa State:
 ![Illustrator](https://img.shields.io/badge/illustrator-%23FF9A00.svg?style=for-the-badge&logo=adobeillustrator&logoColor=white)
 ![Microsoft Access](https://img.shields.io/badge/microsoftaccess-%23A4373A.svg?style=for-the-badge&logo=microsoftaccess&logoColor=white)
 ![RustRover](https://img.shields.io/badge/rustrover-%23000000.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
+
+
