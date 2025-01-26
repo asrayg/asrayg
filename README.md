@@ -15,9 +15,8 @@ I am a junior majoring in computer science and minoring in entrepreneurship and 
 I'm really big into entrepreneurship and advocating for students at Iowa State:
 
 - [The Brik](https://thebrikbiz.vercel.app)
-- [HerdMate](https://herdmate.app)
+- [HerdRight](https://herdright.com)
 - [Scalar News](https://www.linkedin.com/company/80291303)
-- [ISU StuGov](https://iowastatedaily.com/?s=asray+gopa)
 
 ![asrayg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrayg&theme=vue-dark&hide_border=true)
 
