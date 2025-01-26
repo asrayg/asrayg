@@ -12,7 +12,7 @@ I am a junior majoring in computer science and minoring in entrepreneurship and 
 
 ## 🎓 About Me
 
-I'm really big into entrepreneurship and advocating for students at Iowa State:
+I'm really big into entrepreneurship:
 
 - [The Brik](https://thebrikbiz.vercel.app)
 - [HerdRight](https://herdright.com)
