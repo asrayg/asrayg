@@ -22,7 +22,7 @@ I'm really big into entrepreneurship:
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=asrayg&theme=tokyonight)
 
-## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](linkedin.com/in/asray-gopa-892939208/)
+## 🌐 Connect with me: [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/asray-gopa-892939208/)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
