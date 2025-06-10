@@ -1,14 +1,11 @@
 <h1 align="center">Hi 👋 I'm Asray Gopa</h1>
 
 # 💫 About Me:
-I am a junior majoring in computer science and minoring in entrepreneurship and economics at Iowa State, passionate about exploring the realms of artificial intelligence, machine learning, financial engineering, and building robust applications. 
+I am a senior majoring in computer science and minoring in entrepreneurship and economics at Iowa State, passionate about exploring the realms of artificial intelligence, machine learning, financial engineering, and building robust applications. 
 
 ## 🚀 What I'm Up To
 
-- 🤖 Exploring Machine Learning and Artifical Intelligence
-- 💶 Engaging in Financial Engineering
-- 💻 Building Full Stack Applications
-
+- Making tech that solves problems and makes money!
 
 ## 🎓 About Me
 
