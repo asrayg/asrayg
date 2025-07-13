@@ -13,7 +13,7 @@ I'm really big into entrepreneurship:
 
 - [The Brik](https://thebrikbiz.vercel.app)
 - [HerdRight](https://herdright.com)
-- [Scalar News](https://www.linkedin.com/company/80291303)
+- [Scalar News](https://www.scalar.news/)
 
 ![asrayg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrayg&theme=vue-dark&hide_border=true)
 
