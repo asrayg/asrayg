@@ -11,9 +11,12 @@ I am a senior majoring in computer science and minoring in entrepreneurship and 
 
 I'm really big into entrepreneurship:
 
-- [The Brik](https://thebrikbiz.vercel.app)
-- [HerdRight](https://herdright.com)
+Currently:
+- [The Brik](https://the-brik.com/)
 - [Scalar News](https://www.scalar.news/)
+
+Past:
+- [HerdRight](https://herdright.com)
 
 ![asrayg's Streak](https://github-readme-streak-stats.herokuapp.com/?user=asrayg&theme=vue-dark&hide_border=true)
 
