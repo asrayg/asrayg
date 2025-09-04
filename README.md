@@ -13,7 +13,7 @@ I'm really big into entrepreneurship:
 
 Currently:
 - [The Brik](https://the-brik.com/)
-- [Scalar News](https://www.scalar.news/)
+- [Scalar News](https://www.app.scalar.news/)
 
 Past:
 - [HerdRight](https://herdright.com)
