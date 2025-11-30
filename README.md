@@ -4,6 +4,7 @@ SWE Intern @ Principal Financial Group
 Contractor @ Collins Aerospace  
 President — Algorithmic Trading Club (Iowa State)  
 Former 2x NSF Undergraduate Researcher
+
 8× Hackathon Winner  
 10× Pitch Competition Winner  
 
