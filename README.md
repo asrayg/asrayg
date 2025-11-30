@@ -1,4 +1,5 @@
 Senior in Computer Science at Iowa State University
+
 SWE Intern @ Principal Financial Group  
 Contractor @ Collins Aerospace  
 President — Algorithmic Trading Club (Iowa State)  
