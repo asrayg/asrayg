@@ -14,8 +14,8 @@ Former Undergraduate Researcher (Computer Engineering & Electrical Engineering)
 ---
 
 ### Biggest Things I’m Building Right Now
-- **The Brik** — https://the-brik.com/  
-- **Scalar News** — https://app.scalar.news  
+- **The Brik** (https://the-brik.com/)
+- **Scalar News** (https://app.scalar.news)
 - **Hedge Fund strategies in unconventional markets**
 
 ---
