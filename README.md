@@ -3,7 +3,7 @@ Senior in Computer Science at Iowa State University
 SWE Intern @ Principal Financial Group  
 Contractor @ Collins Aerospace  
 President — Algorithmic Trading Club (Iowa State)  
-Former Undergraduate Researcher (Computer Engineering & Electrical Engineering)  
+Former 2x NSF Undergraduate Researcher
 8× Hackathon Winner  
 10× Pitch Competition Winner  
 
